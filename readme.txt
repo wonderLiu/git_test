@@ -10,4 +10,5 @@ creating a new  branch is quick and simple.
 switch branch dev.
 branch test.
 modified in master.
+learn to manage branch
 
