@@ -11,4 +11,5 @@ switch branch dev.
 branch test.
 modified in master.
 learn to manage branch
+laern to manage branch without --no-ff
 
